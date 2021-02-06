@@ -12,5 +12,7 @@ class Dog {
 
   func Bwec(){
     print("Hello")
+    print("awdawdwa")
+    print("awdadawdw")
   }
 }

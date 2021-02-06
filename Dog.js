@@ -9,4 +9,8 @@ class Dog {
   func eatMe() {
     print("EatMe")
   }
+
+  func Bwec(){
+    print("Hello")
+  }
 }

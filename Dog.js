@@ -5,4 +5,8 @@ class Dog {
   func bark() {
     print("bark bark")
   }
+
+  func eatMe() {
+    print("EatMe")
+  }
 }
